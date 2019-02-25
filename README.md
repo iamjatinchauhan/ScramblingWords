@@ -12,6 +12,8 @@ Designed a Puzzle Game in which, various letters will be shown in a table and us
 Written words in puzzle game and size of metrics will be `N*N`.
 Word puzzles (also called word games) are spoken or board games often designed to test ability with language or to explore its properties. Word games are generally engaged as a source of entertainment, but have been found to serve an educational purpose as well.
 
+![GUI](./img/Gui.png)
+
 ## 🎯Scope of project
 
 - The objective of the proposed project is to increase the thinking capability.
@@ -26,4 +28,4 @@ Word puzzles (also called word games) are spoken or board games often designed t
 
 ## ✔️Solving methods
 
->A simple way to solve a word puzzle game is to simply moving a letter square boxes one by one and observe them weather they are forming a meaning word or not and try detect a smaller word in first priority as small meaningful word together can make big meaning word.
+A simple way to solve a word puzzle game is to simply moving a letter square boxes one by one and observe them weather they are forming a meaning word or not and try detect a smaller word in first priority as small meaningful word together can make big meaning word.
