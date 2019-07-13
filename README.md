@@ -7,12 +7,12 @@ Word puzzles (also called word games) are spoken or board games often designed t
 ### This mini project is developed in Jupyter Notebooks in Python Language
 
 --- 
-## Scope of project:dart:
+## :dart:Scope of project
 - The objective of the proposed project is to increase the thinking capability.
 - The game having all the records which you perform in playing you can select easy, hard level according to your choice. You can make your own puzzle game and at any step you can go back to one step as well as you can see the solution of it.
 - It is manually a very difficult job to perform and its need a lot of recalling, reminding and mathematical calculation. The game of word puzzle help to increase mental thinking, vision etc.
 
-## Project Limitation:warning:
+## :warning:Project Limitation
 - The problem faced by this system “WORD PUZZLE GAME” is this that it only run in desktop.
 - If you want to access this game then you must have python installed in your desktop. 
 - The limitation of this project that you not access it in your mobile device or in android devices.
