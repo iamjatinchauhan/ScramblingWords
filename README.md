@@ -4,7 +4,7 @@ Designed a Puzzle Game in which, various letters will be shown in a table and he
 Written words in puzzle game and size of metrics will be `N*N`.
 Word puzzles (also called word games) are spoken or board games often designed to test ability with language or to explore its properties. Word games are generally engaged as a source of entertainment, but have been found to serve an educational purpose as well.
 
-### This mini project is developed in Jupyter Notebooks in Python Language
+### :hammer:This mini project is developed in Jupyter Notebooks in Python Language
 
 --- 
 ## :dart:Scope of project
