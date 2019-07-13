@@ -17,5 +17,5 @@ Word puzzles (also called word games) are spoken or board games often designed t
 - If you want to access this game then you must have python installed in your desktop. 
 - The limitation of this project that you not access it in your mobile device or in android devices.
 
-## :dart:Solving methods
+## :heavy_check_mark:Solving methods
 >A simple way to solve a word puzzle game is to simply moving a letter square boxes one by one and observe them weather they are forming a meaning word or not and try detect a smaller word in first priority as small meaningful word together can make big meaning word.
