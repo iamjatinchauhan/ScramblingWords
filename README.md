@@ -1,7 +1,9 @@
 # Scrambling Words
+
 Designed a Puzzle Game in which, various letters will be shown in a table and he/she can move horizontally ,vertically or diagonally in order to make meaningful words.
 Written words in puzzle game and size of metrics will be `N*N`.
 Word puzzles (also called word games) are spoken or board games often designed to test ability with language or to explore its properties. Word games are generally engaged as a source of entertainment, but have been found to serve an educational purpose as well.
+
 The given mini project is developed in IDE of python that is, Anaconda 5.2 in which the version of python 3.6.1 would be used. We will make this project using jupyter notebooks in Anaconda ide.
 --- 
 ## Scope of project
