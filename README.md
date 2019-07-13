@@ -18,4 +18,4 @@ The given mini project is developed in IDE of python that is, Anaconda 5.2 in wh
 - The limitation of this project that you not access it in your mobile device or in android devices.
 
 ## Solving methods
-A simple way to solve a word puzzle game is to simply moving a letter square boxes one by one and observe them weather they are forming a meaning word or not and try detect a smaller word in first priority as small meaningful word together can make big meaning word.
+>A simple way to solve a word puzzle game is to simply moving a letter square boxes one by one and observe them weather they are forming a meaning word or not and try detect a smaller word in first priority as small meaningful word together can make big meaning word.
