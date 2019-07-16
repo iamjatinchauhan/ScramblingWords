@@ -1,9 +1,7 @@
 # Scrambling Words 
-
-<p>
-    <a href="https://github.com/mrjatinchauhan/ScramblingWords/blob/master/PROJECT%20SCRAMBLING%20WORDS.ipynb" alt="Jupyter">
+<a href="https://github.com/mrjatinchauhan/ScramblingWords/blob/master/PROJECT%20SCRAMBLING%20WORDS.ipynb" alt="Jupyter">
         <img src="https://img.shields.io/pypi/pyversions/jupyter.svg?style=popout-square&logo=Python" /></a>
-</p>
+
 Designed a Puzzle Game in which, various letters will be shown in a table and he/she can move horizontally ,vertically or diagonally in order to make meaningful words.
 Written words in puzzle game and size of metrics will be `N*N`.
 Word puzzles (also called word games) are spoken or board games often designed to test ability with language or to explore its properties. Word games are generally engaged as a source of entertainment, but have been found to serve an educational purpose as well.
