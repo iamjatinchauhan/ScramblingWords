@@ -1,7 +1,8 @@
 # Scrambling Words 
 
 <p align="center">
-    <img src="https://img.shields.io/pypi/pyversions/jupyter.svg">
+    <a href="https://github.com/mrjatinchauhan/ScramblingWords/blob/master/PROJECT%20SCRAMBLING%20WORDS.ipynb" alt="Jupyter">
+        <img src="https://img.shields.io/pypi/pyversions/jupyter.svg" /></a>
 </p>
 Designed a Puzzle Game in which, various letters will be shown in a table and he/she can move horizontally ,vertically or diagonally in order to make meaningful words.
 Written words in puzzle game and size of metrics will be `N*N`.
