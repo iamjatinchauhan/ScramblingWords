@@ -1,4 +1,4 @@
-# Scrambling Words
+# Scrambling Words https://img.shields.io/pypi/pyversions/jupyter.svg
 
 Designed a Puzzle Game in which, various letters will be shown in a table and he/she can move horizontally ,vertically or diagonally in order to make meaningful words.
 Written words in puzzle game and size of metrics will be `N*N`.
