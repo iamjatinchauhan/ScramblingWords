@@ -1,6 +1,6 @@
 # Scrambling Words 
 
-<p align="center">
+<p>
     <a href="https://github.com/mrjatinchauhan/ScramblingWords/blob/master/PROJECT%20SCRAMBLING%20WORDS.ipynb" alt="Jupyter">
         <img src="https://img.shields.io/pypi/pyversions/jupyter.svg" /></a>
 </p>
