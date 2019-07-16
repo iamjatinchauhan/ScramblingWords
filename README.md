@@ -1,4 +1,5 @@
-# Scrambling Words <p>
+# Scrambling Words 
+<p>
     <a href="https://github.com/mrjatinchauhan/ScramblingWords/blob/master/PROJECT%20SCRAMBLING%20WORDS.ipynb" alt="Jupyter">
         <img src="https://img.shields.io/pypi/pyversions/jupyter.svg?style=popout-square&logo=Python" /></a>
 </p>
